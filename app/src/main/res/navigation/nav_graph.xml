@@ -25,7 +25,7 @@
         tools:layout="@layout/fragment_details" >
         <argument
             android:name="article"
-            app:argType="ru.mvlikhachev.newsapp.models.Article" />
+            app:argType="ru.lab8.newsapp.models.Article" />
         <action
             android:id="@+id/action_detailsFragment_to_mainFragment"
             app:destination="@id/mainFragment"

@@ -11,7 +11,7 @@ android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "ru.mvlikhachev.newsapp"
+        applicationId "ru.lab8.newsapp"
         minSdk 24
         targetSdk 31
         versionCode 1
